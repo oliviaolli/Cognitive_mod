@@ -1,0 +1,7 @@
+adapting_image,test_image,rating_1,rating_2,rating_3,rating_4,rating_5
+face_00.5.png,face_02.5.png,4,4,5,4,4
+face_00.5.png,face_03.0.png,4,4,4,5,4
+face_00.5.png,face_03.5.png,5,5,4,5,4
+face_05.5.png,face_02.5.png,1,1,1,1,2
+face_05.5.png,face_03.0.png,1,2,2,2,1
+face_05.5.png,face_03.5.png,2,2,2,2,2
